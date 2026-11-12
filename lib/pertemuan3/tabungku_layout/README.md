@@ -14,7 +14,7 @@ Aplikasi menampilkan informasi saldo dan target tabungan, menu kategori, serta r
 | NIM | 20240801010                                               |
 | Universitas | Universitas Esa Unggul                                    |
 | Program Studi | Teknik Informatika                                        |
-| Mata Kuliah | T1505 Pemrograman Mobile                                  |
+| Mata Kuliah | Pemrograman Mobile CR002                                  |
 | Semester | 5                                                         |
 | Tugas | Pertemuan 3 – Menyusun Layout dengan Widget Dasar Flutter |
 
@@ -93,8 +93,8 @@ tabungku_layout/
 ├── lib/
 │   └── main.dart
 ├── docs/
-│   ├── screenshot_hp.png
-│   └── screenshot_tablet.png
+│   ├── tampilan mobile.png
+│   └── tampilan tablet.png
 ├── pubspec.yaml
 └── README.md
 ```
